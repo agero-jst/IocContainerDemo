@@ -1,0 +1,10 @@
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\NonIoCPackingEngine\bin\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\NonIoCPackingEngine\bin\Debug\NonIoCPackingEngine.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\NonIoCPackingEngine\bin\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\NonIoCPackingEngine\bin\Debug\NonIoCPackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.csprojResolveAssemblyReference.cache
+C:\Users\jst\Source\Repos\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\NonIoCPackingEngine\obj\Debug\NonIoCPackingEngine.pdb

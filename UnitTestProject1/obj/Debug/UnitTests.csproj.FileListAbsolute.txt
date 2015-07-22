@@ -1,0 +1,27 @@
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.xml
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\bin\Debug\FakeItEasy.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

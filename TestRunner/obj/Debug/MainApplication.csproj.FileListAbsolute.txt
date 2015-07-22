@@ -1,0 +1,58 @@
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\TestRunner.exe
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\TestRunner.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\IocContainer.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\IocContainer.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.xml
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.xml
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\TestRunner.exe
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\TestRunner.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\TestRunner.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\IocContainer.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\IocContainer.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\TestRunner\bin\Debug\NonIoCPackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe.config
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\obj\Debug\TestRunner.exe
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\obj\Debug\TestRunner.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\TestRunner.exe
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\TestRunner.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\IocContainer.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\NonIoCPackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\IocContainer.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\NonIoCPackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Castle.Core.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Castle.Windsor.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\jst\Source\Repos\IocContainerDemo\TestRunner\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache

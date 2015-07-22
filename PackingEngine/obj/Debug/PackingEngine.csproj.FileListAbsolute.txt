@@ -1,0 +1,15 @@
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.dll
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.pdb
+C:\Users\jst\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.pdb
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.csprojResolveAssemblyReference.cache
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.dll
+C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.csprojResolveAssemblyReference.cache
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.dll
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.pdb
