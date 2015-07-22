@@ -59,7 +59,6 @@
   <ItemGroup>
     <Compile Include="Infrastructure\CastleContainerConfig.cs" />
     <Compile Include="Infrastructure\DemoContainerConfig.cs" />
-    <Compile Include="Installers\PackingEngineInstaller.cs" />
     <Compile Include="Infrastructure\UnityContainerConfig.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

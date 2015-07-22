@@ -1,6 +1,7 @@
 ﻿using System;
 using PackingEngine.Implementations;
 using PackingEngine.Interfaces;
+using TestRunner.Infrastructure;
 
 namespace TestRunner
 {
@@ -19,6 +20,12 @@ namespace TestRunner
             return runner;
         }
 
+        // ReSharper disable once UnusedMember.Local
+        static PackingRunner BuildSingleLine()
+        {
+            return new PackingRunner(new BagFiller(new BagProvider()), new BoxPacker(new BoxBuilder(), new BoxLidCloser()));            
+        }
+
         // ReSharper disable once UnusedParameter.Local
         static void Main(string[] args)
         {
@@ -30,9 +37,9 @@ namespace TestRunner
             //var runner = container.Resolve<PackingRunner>();
             #endregion
 
-            //var runner = BuildRunnerExplicitly();
+            var runner = BuildRunnerExplicitly();
 
-            var runner = new NonIoCPackingEngine.Implementations.PackingRunner();
+            //var runner = new NonIoCPackingEngine.Implementations.PackingRunner();
 
             var bundle = runner.PackBagInBox();
 

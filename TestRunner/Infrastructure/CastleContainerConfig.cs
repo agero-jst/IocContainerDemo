@@ -1,6 +1,6 @@
-﻿using Castle.Facilities.TypedFactory;
+﻿using Castle.MicroKernel.Registration;
 using Castle.Windsor;
-using TestRunner.Installers;
+using PackingEngine;
 
 namespace TestRunner.Infrastructure
 {
@@ -8,11 +8,11 @@ namespace TestRunner.Infrastructure
     {
         public static IWindsorContainer ConfigureContainer()
         {
-            var container = new WindsorContainer()
-                .AddFacility<TypedFactoryFacility>()
-                .Install(new PackingEngineInstaller());
-            return container;
+            var container = new WindsorContainer();
+            container.Register(Classes.FromAssemblyContaining<IAmMarkerForPackingEngine>()
+                     .InSameNamespaceAs<IAmMarkerForPackingEngine>(true)
+                     .WithServiceDefaultInterfaces()
+                     .LifestyleSingleton()); return container;
         }
-
     }
 }

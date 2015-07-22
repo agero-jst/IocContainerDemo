@@ -9,6 +9,5 @@ C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\Ioc
 C:\Users\jst\SkyDrive\Documents\Visual Studio 2013\Projects\IocContainerDemo\IocContainer\obj\Debug\IocContainer.pdb
 C:\Users\jst\Source\Repos\IocContainerDemo\IocContainer\bin\Debug\IocContainer.dll
 C:\Users\jst\Source\Repos\IocContainerDemo\IocContainer\bin\Debug\IocContainer.pdb
-C:\Users\jst\Source\Repos\IocContainerDemo\IocContainer\obj\Debug\IocContainer.csprojResolveAssemblyReference.cache
 C:\Users\jst\Source\Repos\IocContainerDemo\IocContainer\obj\Debug\IocContainer.dll
 C:\Users\jst\Source\Repos\IocContainerDemo\IocContainer\obj\Debug\IocContainer.pdb
