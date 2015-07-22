@@ -15,13 +15,13 @@ namespace PackingEngine.Implementations
             _boxPacker = boxPacker;
         }
 
-        public Bundle PackBagInBox()
+        public Box PackBagInBox()
         {
             Console.WriteLine("Getting bag for box...");
             var bag = _bagPacker.FillBag();
             Console.WriteLine("Packing bag in box...");
             var box = _boxPacker.PackBox(bag);
-            return new Bundle { Bag = bag, Box = box };
+            return box;
         }
     }
 }

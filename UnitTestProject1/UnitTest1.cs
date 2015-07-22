@@ -35,9 +35,9 @@ namespace UnitTestProject1
             A.CallTo(() => _boxPacker.PackBox(A<Bag>.Ignored)).Returns(_box);
 
             var runner = new PackingRunner(_bagFiller, _boxPacker);
-            var bundle = runner.PackBagInBox();
-            Assert.AreEqual(bundle.Bag.Name, _bag.Name);
-            Assert.AreEqual(bundle.Box.Name, _box.Name);
+            var box = runner.PackBagInBox();
+            Assert.AreEqual(box.Bag.Name, _bag.Name);
+            Assert.AreEqual(box.Name, _box.Name);
         }
     }
 }

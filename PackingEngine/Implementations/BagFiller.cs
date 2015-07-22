@@ -12,12 +12,6 @@ namespace PackingEngine.Implementations
             _bag = provider.ProvideBag();
         }
 
-        public BagFiller()
-        {
-            var provider = new BagProvider();
-            _bag = provider.ProvideBag();
-        }
-
         public Bag FillBag()
         {
             Console.WriteLine("Filling bag...");

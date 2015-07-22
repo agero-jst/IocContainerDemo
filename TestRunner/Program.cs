@@ -31,20 +31,19 @@ namespace TestRunner
         {
             #region Containers
             //var container = new Infrastructure.UnityContainerConfig().ConfigureContainer();
-            //var container = CastleContainerConfig.ConfigureContainer();
+            var container = CastleContainerConfig.ConfigureContainer();
             //var container = new DemoContainerConfig().ConfigureContainer();
 
-            //var runner = container.Resolve<PackingRunner>();
+            var runner = container.Resolve<PackingRunner>();
             #endregion
 
-            var runner = BuildRunnerExplicitly();
+            //var runner = BuildRunnerExplicitly();
 
             //var runner = new NonIoCPackingEngine.Implementations.PackingRunner();
 
-            var bundle = runner.PackBagInBox();
+            var box = runner.PackBagInBox();
 
-            var bag = bundle.Bag;
-            var box = bundle.Box;
+            var bag = box.Bag;            
 
             Console.WriteLine("Done." + Environment.NewLine);
             Console.WriteLine("Bag created as " + bag.Name);

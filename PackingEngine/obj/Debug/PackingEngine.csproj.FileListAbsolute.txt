@@ -12,3 +12,4 @@ C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine
 C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\bin\Debug\PackingEngine.pdb
 C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.dll
 C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.pdb
+C:\Users\jst\Source\Repos\IocContainerDemo\PackingEngine\obj\Debug\PackingEngine.csprojResolveAssemblyReference.cache
