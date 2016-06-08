@@ -21,6 +21,7 @@ namespace UnitTestProject1
 
             _box = A.Dummy<Box>();
             A.CallTo(() => _box.Name).Returns("A box");
+            A.CallTo(() => _box.Bag.Name).Returns(_bag.Name);
 
 
         }
@@ -32,7 +33,7 @@ namespace UnitTestProject1
             A.CallTo(() => _bagFiller.FillBag()).Returns(_bag);
 
             _boxPacker = A.Fake<IBoxPacker>();
-            A.CallTo(() => _boxPacker.PackBox(A<Bag>.Ignored)).Returns(_box);
+            A.CallTo(() => _boxPacker.PackBox(_bag)).Returns(_box);
 
             var runner = new PackingRunner(_bagFiller, _boxPacker);
             var box = runner.PackBagInBox();
